@@ -8,7 +8,7 @@ const BookCard = (props) => {
     return (
         <div>
             <Card>
-                <Row className="mt-3    ">
+                <Row className="mt-3 mb-3    ">
                     <Col xs="10">
                     <CardTitle>Book Search</CardTitle>
                     </Col>
